@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    background-color: #449DD1;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.nav-bar-links{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px; 
+}
+
+.nav-bar-links li{
+    margin-right: 20px; 
+}
